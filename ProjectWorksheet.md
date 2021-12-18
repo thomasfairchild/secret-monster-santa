@@ -2,6 +2,15 @@
 
 I'll be chronicling the progress of this project in this section.
 
+12/16/2021: 
+- Mapped out the Wireframe, React Architecture, and Project Versions.
+- Submitted project for approval.
+- Project was approved!
+
+12/17/2021:
+- Created components for Story, MonsterHistory, About.
+- Made Links and Routes in the App to the aforementioned components.
+- Grouped Story, MonsterHistory, and About into the Header.
 
 ## Project Description
 
