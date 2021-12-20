@@ -3,6 +3,7 @@ import Story from "./Story";
 import About from "./About";
 import MonsterHistory from "./MonsterHistory";
 import FirstPage from "./FirstPage";
+import SecondPage from "./SecondPage";
 import Header from "./Header";
 import './App.css';
 import MainBanner from './images/MainBanner.gif';
@@ -22,6 +23,8 @@ function App() {
         <Route path='/monsterhistory' exact element={<MonsterHistory/>}/>
 
         <Route path='/firstpage' exact element={<FirstPage/>}/>
+
+        <Route path='/secondpage' exact element={<SecondPage/>}/>
     </Routes>    
     </div>
   );

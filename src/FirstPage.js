@@ -1,4 +1,4 @@
-import Page1 from "./images/Page1.gif";
+import Page1 from "./images//Page1.JPG";
 import { Link } from "react-router-dom";
 
 function FirstPage() {
@@ -20,7 +20,7 @@ function FirstPage() {
                 <Link to="/">last page</Link>
             </li>
             <li>
-                <Link to="/FirstPage">next page</Link>
+                <Link to="/SecondPage">next page</Link>
             </li>
         </div>    
         </ul>  
