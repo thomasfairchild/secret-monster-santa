@@ -4,11 +4,14 @@ import About from "./About";
 import MonsterHistory from "./MonsterHistory";
 import Header from "./Header";
 import './App.css';
+import MainBanner from './images/MainBanner.gif';
 
 function App() {
   return (
     <div className="App">
-      <h1>Main Banner</h1>
+      <div className="Banner">
+        <img src={MainBanner} alt="banner"/>
+      </div>
     <Header/>
 
     <Routes>
