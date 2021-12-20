@@ -9,7 +9,7 @@ function FourthPage() {
     <div className="Pages">
     <img src={Page4} alt="first page"/>
     </div>
-    <h2>Not wanting to lose without putting up a fight,
+    <h2>Not wanting to lose without first putting up a fight,
 
     Gamera unleashed a burning blast of light!</h2>
     <ul>
