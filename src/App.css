@@ -2,11 +2,43 @@
   text-align: center;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .Banner {
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    height: 15vh;
-    width: 10%;
-    overflow: visible;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  height: 15vh;
+  width: 10%;
+  overflow: visible;
+}
+
+.Header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,5,5,0.6292892156862745) 0%, rgba(10,219,22,0.6404936974789917) 100%);
+  
+}
+
+.Page0 {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  height: 45vh;
+  width: 10%;
+  overflow: visible;
 }

@@ -12,8 +12,7 @@ function App() {
       <div className="Banner">
         <img src={MainBanner} alt="banner"/>
       </div>
-    <Header/>
-
+        <Header/>
     <Routes>
         <Route path='/' exact element={<Story/>}/>
 

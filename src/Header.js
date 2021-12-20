@@ -2,17 +2,21 @@ import { Link } from "react-router-dom";
 
 function Header () {
     return (
+        
         <ul>
+        <div className="Header">
             <li>
-                <Link to="/">The Story</Link>
+                <Link to="/">THE STORY</Link>
             </li>
             <li>
-                <Link to="/MonsterHistory">Monsters and History</Link>
+                <Link to="/MonsterHistory">MONSTER HISTORY</Link>
             </li>  
             <li>
-                <Link to="/About">About</Link>    
+                <Link to="/About">ABOUT</Link>    
             </li>  
+        </div>    
         </ul>
+        
     )
 }
 
