@@ -1,7 +1,8 @@
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Story from "./Story";
 import About from "./About";
 import MonsterHistory from "./MonsterHistory";
+import FirstPage from "./FirstPage";
 import Header from "./Header";
 import './App.css';
 import MainBanner from './images/MainBanner.gif';
@@ -19,6 +20,8 @@ function App() {
         <Route path='/about' exact element={<About/>}/>
 
         <Route path='/monsterhistory' exact element={<MonsterHistory/>}/>
+
+        <Route path='/firstpage' exact element={<FirstPage/>}/>
     </Routes>    
     </div>
   );

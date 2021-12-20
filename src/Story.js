@@ -1,14 +1,24 @@
 import Page0 from './images/Page0.png';
+import { Link } from "react-router-dom";
+
 
 function Story() {
     return (
     <>
     <br>
     </br>
-    <div className="Page0">
+    <div className="Pages">
     <img src={Page0} alt="Page0"/>
     </div>
-    <h1>Secret Monster Santa</h1>
+    <ul>
+        <br>
+        </br>
+        <div className="PageShift">
+            <li>
+                <Link to="/FirstPage">START READING</Link>
+            </li>
+        </div>    
+        </ul>
     </>   
     ) 
 }

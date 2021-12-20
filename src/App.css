@@ -30,15 +30,20 @@ ul {
   justify-content: space-around;
   padding: 10px;
   background: rgb(255,255,255);
-background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,5,5,0.6292892156862745) 0%, rgba(10,219,22,0.6404936974789917) 100%);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,5,5,0.6292892156862745) 0%, rgba(10,219,22,0.6404936974789917) 100%);
   
 }
 
-.Page0 {
+.Pages {
   display: flex;
   justify-content: center;
   margin: 0 auto;
   height: 45vh;
   width: 10%;
   overflow: visible;
+}
+
+.PageShift {
+  display: flex;
+  justify-content: space-evenly;
 }
