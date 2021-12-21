@@ -1,24 +1,24 @@
-import Page11 from "./images//Page11.JPG";
+import Page14 from "./images//Page14.JPG";
 import { Link } from "react-router-dom";
 
-function EleventhPage() {
+function FourteenthPage() {
     return (
     <>
     <br>
     </br>
     <div className="Pages">
-    <img src={Page11} alt="first page"/>
+    <img src={Page14} alt="first page"/>
     </div>
-    <h2>But Gamera was not alone...</h2>
+    <h2>...that wants to play!</h2>
     <ul>
         <br>
         </br>
         <div className="PageShift">
             <li>
-                <Link to="/TenthPage">last page</Link>
+                <Link to="/ThirteenthPage">last page</Link>
             </li>
             <li>
-                <Link to="/TwelfthPage">next page</Link>
+                <Link to="/FifteenthPage">next page</Link>
             </li>
         </div>    
         </ul>  
@@ -26,4 +26,4 @@ function EleventhPage() {
     )
 }
 
-export default EleventhPage
+export default FourteenthPage
