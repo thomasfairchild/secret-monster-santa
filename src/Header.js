@@ -6,11 +6,12 @@ function Header () {
         <ul>
         <div className="Header">
             <li>
-                <Link to="/">THE STORY</Link>
-            </li>
-            <li>
                 <Link to="/MonsterHistory">MONSTER HISTORY</Link>
             </li>  
+            <li>
+                <Link to="/">THE STORY</Link>
+            </li>
+            
             <li>
                 <Link to="/About">ABOUT</Link>    
             </li>  

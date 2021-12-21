@@ -9,7 +9,7 @@ function FourteenthPage() {
     <div className="Pages">
     <img src={Page14} alt="first page"/>
     </div>
-    <h2>...that has come out to play!</h2>
+    <h1><span>...that has come out to play!</span></h1>
     <ul>
         <br>
         </br>

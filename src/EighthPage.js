@@ -9,7 +9,7 @@ function EighthPage() {
     <div className="Pages">
     <img src={Page8} alt="first page"/>
     </div>
-    <h2>In his claws was a gift that contained a surprise...</h2>
+    <h1><span>In his claws was a gift that contained a surprise...</span> </h1>
     <ul>
         <br>
         </br>
