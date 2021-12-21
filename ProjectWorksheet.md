@@ -12,6 +12,13 @@ I'll be chronicling the progress of this project in this section.
 - Made Links and Routes in the App to the aforementioned components.
 - Grouped Story, MonsterHistory, and About into the Header.
 
+12/20/2021:
+- Over the weekend, I went through the artwork I'll be using, and prepared one gif per page; however, due to how large each gif file is and the limited bandwidth I have at GitHub, I had no choice but to change plans.
+- Instead of using gifs, I'll be relying on simple images screengrabbed from one of my personal projects.
+- Main banner was successfully tested. It's the only gif.
+- CSS, Header, abd Story were modified.
+- Pages 1-8 were successfully made.
+
 ## Project Description
 
 For my final project at General Assembly (2021), I'll be doing a giant monster/Christmas themed virtual storybook geared towards younger readers. My hope is that readers will walk away with the perspective that just because something may look scary doesn't mean it's bad. In future Versions, I'll also be providing an About page.

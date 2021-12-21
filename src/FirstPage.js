@@ -1,4 +1,4 @@
-import Page1 from "./images//Page1.JPG";
+import Page1 from "./images/Page1.JPG";
 import { Link } from "react-router-dom";
 
 function FirstPage() {

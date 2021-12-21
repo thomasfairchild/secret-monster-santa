@@ -16,6 +16,9 @@ import EleventhPage from "./EleventhPage";
 import TwelfthPage from "./TwelfthPage";
 import ThirteenthPage from "./ThirteenthPage";
 import FourteenthPage from "./FourteenthPage";
+import FifteenthPage from "./FifteenthPage";
+import SixteenthPage from "./SixteenthPage";
+import LastPage from "./LastPage";
 import Header from "./Header";
 import './App.css';
 import MainBanner from './images/MainBanner.gif';
@@ -61,6 +64,12 @@ function App() {
         <Route path='/thirteenthpage' exact element={<ThirteenthPage/>}/>
 
         <Route path='/fourteenthpage' exact element={<FourteenthPage/>}/>
+
+        <Route path='/fifteenthpage' exact element={<FifteenthPage/>}/>
+
+        <Route path='/sixteenthpage' exact element={<SixteenthPage/>}/>
+
+        <Route path='/lastpage' exact element={<LastPage/>}/>
     </Routes>    
     </div>
   );
