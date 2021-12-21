@@ -25,11 +25,13 @@ import MainBanner from './images/MainBanner.gif';
 
 function App() {
   return (
+    
     <div className="App">
       <div className="Banner">
         <img src={MainBanner} alt="banner"/>
       </div>
         <Header/>
+        <div className="Background">
     <Routes>
         <Route path='/' exact element={<Story/>}/>
 
@@ -70,7 +72,8 @@ function App() {
         <Route path='/sixteenthpage' exact element={<SixteenthPage/>}/>
 
         <Route path='/lastpage' exact element={<LastPage/>}/>
-    </Routes>    
+    </Routes>   
+    </div> 
     </div>
   );
 }

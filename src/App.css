@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Mountains+of+Christmas:wght@700&display=swap');
+
 .App {
   text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  font-family: 'Bangers', bold;
+  font-family: 'Mountains of Christmas', bold;
+}
+
+html {
+  background-image: url(/src/images/BannerBackground.jpeg);
+  background-size: 100px cover;
+  background-repeat: no-repeat;
 }
 
 a:link {
@@ -23,6 +38,7 @@ ul {
   height: 15vh;
   width: 10%;
   overflow: visible;
+  /* background-image: url(/src/images/BannerBackground.jpeg) */
 }
 
 .Header {
@@ -46,4 +62,7 @@ ul {
 .PageShift {
   display: flex;
   justify-content: space-evenly;
+  padding: 10px;
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,5,5,0.6292892156862745) 0%, rgba(10,219,22,0.6404936974789917) 100%);
 }
