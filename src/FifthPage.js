@@ -9,7 +9,7 @@ function FifthPage() {
     <div className="Pages">
     <img src={Page5} alt="first page"/>
     </div>
-    <h2>But when the smoke cleared and the flames receded...</h2>
+    <h1><span>But when the smoke cleared and the flames receded...</span> </h1>
     <ul>
         <br>
         </br>

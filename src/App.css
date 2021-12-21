@@ -44,10 +44,11 @@ ul {
 .Header {
   display: flex;
   justify-content: space-around;
+  font-size: 35px;
   padding: 10px;
-  background: rgb(255,255,255);
-  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,5,5,0.6292892156862745) 0%, rgba(10,219,22,0.6404936974789917) 100%);
-  
+  background: rgb(0,192,230);
+  background: linear-gradient(90deg, rgba(0,192,230,0.5816701680672269) 23%, rgba(255,255,255,0.7637429971988796) 51%, rgba(3,246,33,0.7161239495798319) 100%);
+
 }
 
 .Pages {
@@ -57,12 +58,21 @@ ul {
   height: 45vh;
   width: 10%;
   overflow: visible;
+  
 }
 
 .PageShift {
   display: flex;
   justify-content: space-evenly;
+  font-size: 30px;
   padding: 10px;
+  background: rgb(0,192,230);
+  background: linear-gradient(90deg, rgba(6, 204, 29, 0.611) 23%, rgba(255,255,255,0.7637429971988796) 51%, rgba(0,192,230,0.5816701680672269) 100%);
+
+}
+
+span {
   background: rgb(255,255,255);
-  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,5,5,0.6292892156862745) 0%, rgba(10,219,22,0.6404936974789917) 100%);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.714) 0%, rgba(255, 5, 5, 0.405) 0%, rgba(10, 219, 21, 0.494) 70%);
+
 }

@@ -9,9 +9,9 @@ function ThirdPage() {
     <div className="Pages">
     <img src={Page3} alt="first page"/>
     </div>
-    <h2>What Gamera saw coming was truly scary!
+    <h1><span>What Gamera saw coming was truly scary!
 
-    He knew of this creature, its battles legendary.</h2>
+    He knew of this creature, its battles legendary.</span> </h1>
     <ul>
         <br>
         </br>

@@ -21,7 +21,7 @@ import SixteenthPage from "./SixteenthPage";
 import LastPage from "./LastPage";
 import Header from "./Header";
 import './App.css';
-import MainBanner from './images/MainBanner.gif';
+import MainBanner from './images/MainBanner.png';
 
 function App() {
   return (

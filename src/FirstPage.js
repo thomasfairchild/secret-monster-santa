@@ -9,9 +9,9 @@ function FirstPage() {
     <div className="Pages">
     <img src={Page1} alt="first page"/>
     </div>
-    <h2>'Twas the night before Christmas when Gamera arrived...
+    <h1><span>'Twas the night before Christmas when Gamera arrived...
 
-    In a far-off land where only the strong survived.</h2>
+    In a far-off land where only the strong survived.</span> </h1>
     <ul>
         <br>
         </br>

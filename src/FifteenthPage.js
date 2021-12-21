@@ -10,6 +10,7 @@ function FifteenthPage() {
     <img src={Page15} alt="first page"/>
     </div>
     <h2>Gamera was speechless, he didn't know what to say...</h2>
+    
     <ul>
         <br>
         </br>

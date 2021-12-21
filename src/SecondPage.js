@@ -9,9 +9,9 @@ function SecondPage() {
     <div className="Pages">
     <img src={Page2} alt="first page"/>
     </div>
-    <h2>The wind was howling like a mad siren,
+    <h1><span>The wind was howling like a mad siren,
 
-    only to be drowned out by the roar of a mighty Titan.</h2>
+    only to be drowned out by the roar of a mighty Titan.</span> </h1>
     <ul>
         <br>
         </br>
