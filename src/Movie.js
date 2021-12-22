@@ -7,7 +7,7 @@ function Movie() {
     </br>
     <h1>The Movie</h1>
     <h2>Originally made in December 2018, Secret Monster Santa has been
-        remastered to celebrate the holidays and greet the New Year. </h2>
+        remastered to celebrate the holidays and welcome the New Year. </h2>
         <br>
         </br>
     <h2>Filmed on a miniature green screen studio, highly-detailed and articulate figurines were utilized
@@ -17,6 +17,8 @@ function Movie() {
     <YouTubeEmbed embedId="bQqelCQ_ONU" />
     <br></br>
     <h1>This holiday season, get ready to be stomped underneath the mistletoe.</h1>
+    <br>
+    </br>
     </> 
     )   
 }

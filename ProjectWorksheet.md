@@ -81,6 +81,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 I'll use Adobe After Effects/Photoshop to create original banner(s) and design the virtual storybook.
 
+
  ## Media Settings
 
  Mobile: @media only screen and (max-width: 480px)
@@ -89,7 +90,22 @@ I'll use Adobe After Effects/Photoshop to create original banner(s) and design t
 
  Desktop: @media only screen and (max-width: 1080px)
 
-## Code Snippet
+
+## Resources
+
+Great tutorial on embedding YouTube videos into React JS:
+[https://dev.to/bravemaster619/simplest-way-to-embed-a-youtube-video-in-your-react-app-3bk2]
+
+CSS Gradient Tool:
+[https://cssgradient.io/]
+
+
+
+## Future Objectives
+
+- Work on the Flipage method.
+
+- Find or build Monster API Back-End to revamp the Monster History section.
 
 
 ```
