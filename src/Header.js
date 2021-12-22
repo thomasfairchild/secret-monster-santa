@@ -15,6 +15,10 @@ function Header () {
             <li>
                 <Link to="/About">ABOUT</Link>    
             </li>  
+
+            <li>
+                <Link to="/Movie">THE MOVIE</Link>    
+            </li>  
         </div>    
         </ul>
         

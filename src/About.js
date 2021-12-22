@@ -1,5 +1,3 @@
-import YouTubeEmbed from "./YouTube";
-
 function About() {
     return (
     <>
@@ -7,10 +5,6 @@ function About() {
     </br>
     <h1>About</h1>
         <h2>Hi, I'm Tom! </h2>
-    
-    <br>
-    </br>
-    <YouTubeEmbed embedId="bQqelCQ_ONU" />
     </> 
     )   
 }
