@@ -5,7 +5,7 @@ function Movie() {
     <>
     <br>
     </br>
-    <h1>The Movie</h1>
+    <h1><span>The Movie</span></h1>
     <h2>Originally made in December 2018, Secret Monster Santa has been
         remastered to celebrate the holidays and welcome the New Year. </h2>
         <br>

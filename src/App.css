@@ -74,7 +74,7 @@ ul {
 
 span {
   background: rgb(255,255,255);
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.823) 0%, rgba(247, 135, 135, 0.666) 0%, rgba(10, 219, 21, 0.672) 70%);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.645) 0%, rgba(247, 135, 135, 0.488) 0%, rgba(10, 219, 21, 0.672) 70%);
   padding: 5px;
 }
 
@@ -83,4 +83,14 @@ span {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+.Monsters {
+  display: flex;
+  justify-content: center;
+  background-attachment: scroll;
+  margin: 0 auto;
+  height: 35vh;
+  width: 10%;
+  overflow: visible;
 }

@@ -14,7 +14,7 @@ I'll be chronicling the progress of this project in this section.
 
 12/20/2021:
 - Over the weekend, I went through the artwork I'll be using, and prepared one gif per page; however, due to how large each gif file is and the limited bandwidth I have at GitHub, I had no choice but to change plans.
-- Instead of using gifs, I'll be relying on simple images screengrabbed from one of my personal projects.
+- Instead of using gifs, I'll be relying on simple images screen-grabbed from one of my personal projects.
 - Main banner was successfully tested. It's the only gif.
 - CSS, Header, abd Story were modified.
 - Pages 1-8 were successfully made.
