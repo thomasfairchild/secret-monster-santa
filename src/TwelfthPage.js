@@ -9,7 +9,7 @@ function TwelfthPage() {
     <div className="Pages">
     <img src={Page12} alt="first page"/>
     </div>
-    <h1><span>...in receiving glad tidings this day.</span></h1>
+    <h1>...in receiving glad tidings this day.</h1>
     <ul>
         <br>
         </br>

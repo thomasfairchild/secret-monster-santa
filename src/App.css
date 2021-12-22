@@ -34,10 +34,11 @@ ul {
 .Banner {
   display: flex;
   justify-content: center;
-  background-attachment: scroll;
-  margin: 0 auto;
-  height: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+  height: 13vh;
   width: 10%;
+  padding: 5px;
   overflow: visible;
   /* background-image: url(/src/images/BannerBackground.jpeg) */
 }
@@ -59,7 +60,7 @@ ul {
   height: 45vh;
   width: 10%;
   overflow: visible;
-  
+  filter: drop-shadow(0 0 0.75rem rgb(34, 34, 34));
 }
 
 .PageShift {
@@ -68,14 +69,19 @@ ul {
   font-size: 30px;
   padding: 10px;
   background: rgb(0,192,230);
-  background: linear-gradient(90deg, rgba(6, 204, 29, 0.611) 23%, rgba(255,255,255,0.7637429971988796) 51%, rgba(0,192,230,0.5816701680672269) 100%);
+  background: linear-gradient(90deg, rgba(6, 204, 29, 0.481) 23%, rgba(255,255,255,0.7637429971988796) 51%, rgba(0,192,230,0.5816701680672269) 100%);
 
 }
 
 span {
   background: rgb(255,255,255);
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.645) 0%, rgba(247, 135, 135, 0.488) 0%, rgba(10, 219, 21, 0.672) 70%);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.645) 0%, rgba(247, 135, 135, 0.488) 0%, rgba(10, 219, 21, 0.583) 70%);
   padding: 5px;
+}
+
+h1 {
+  color: rgb(240, 240, 240);
+  text-shadow: 1px 1px 2px black, 0 0 25px rgba(0, 195, 255, 0.789), 0 0 5px rgba(0, 182, 36, 0.96);
 }
 
 .Background {
@@ -85,7 +91,7 @@ span {
   background-attachment: fixed;
 }
 
-.Monsters {
+/* .Monsters {
   display: flex;
   justify-content: center;
   background-attachment: scroll;
@@ -93,4 +99,4 @@ span {
   height: 35vh;
   width: 10%;
   overflow: visible;
-}
+} */

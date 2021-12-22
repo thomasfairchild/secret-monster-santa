@@ -9,7 +9,7 @@ function TenthPage() {
     <div className="Pages">
     <img src={Page10} alt="first page"/>
     </div>
-    <h1><span>...'til the next sunrise.</span></h1>
+    <h1>...'til the next sunrise.</h1>
     <ul>
         <br>
         </br>

@@ -9,7 +9,7 @@ function SixteenthPage() {
     <div className="Pages">
     <img src={Page16} alt="first page"/>
     </div>
-    <h1><span>It seemed all Godzilla wanted...</span></h1>
+    <h1>It seemed all Godzilla wanted...</h1>
     <ul>
         <br>
         </br>

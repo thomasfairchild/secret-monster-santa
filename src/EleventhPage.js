@@ -9,7 +9,7 @@ function EleventhPage() {
     <div className="Pages">
     <img src={Page11} alt="first page"/>
     </div>
-    <h1><span>But Gamera was not alone...</span></h1>
+    <h1>But Gamera was not alone...</h1>
     <ul>
         <br>
         </br>

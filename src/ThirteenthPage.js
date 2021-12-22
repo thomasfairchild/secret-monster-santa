@@ -9,7 +9,7 @@ function ThirteenthPage() {
     <div className="Pages">
     <img src={Page13} alt="first page"/>
     </div>
-    <h1><span>For there's more than one Secret Monster Santa...</span></h1>
+    <h1>For there's more than one Secret Monster Santa...</h1>
     <ul>
         <br>
         </br>
