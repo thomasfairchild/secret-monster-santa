@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/secret-monster-santa/static/css/main.7ff6afcd.css",
+    "main.js": "/secret-monster-santa/static/js/main.2219a3f3.js",
+    "static/js/787.32f32c27.chunk.js": "/secret-monster-santa/static/js/787.32f32c27.chunk.js",
+    "static/media/Background.jpeg": "/secret-monster-santa/static/media/Background.cdd3929931088c2bbdd5.jpeg",
+    "static/media/Page16.JPG": "/secret-monster-santa/static/media/Page16.eb0aeba80fd4f8d280c5.JPG",
+    "static/media/Page8.JPG": "/secret-monster-santa/static/media/Page8.96bd66d30226bde572b5.JPG",
+    "static/media/Page0.png": "/secret-monster-santa/static/media/Page0.44226a8460b4311f11af.png",
+    "static/media/Page14.JPG": "/secret-monster-santa/static/media/Page14.fc487e77f7364f93f1b3.JPG",
+    "static/media/monsterhistory.jpeg": "/secret-monster-santa/static/media/monsterhistory.c4b3af3a11ed61da9bd2.jpeg",
+    "static/media/MainBanner.png": "/secret-monster-santa/static/media/MainBanner.b6744aa943d9f5c54a33.png",
+    "static/media/Page15.JPG": "/secret-monster-santa/static/media/Page15.7f1a674a5ebaf4f8c7ae.JPG",
+    "static/media/BannerBackground.jpeg": "/secret-monster-santa/static/media/BannerBackground.5e43a78cb139c5c01925.jpeg",
+    "static/media/Page17.JPG": "/secret-monster-santa/static/media/Page17.37fadde7afbe9f78b261.JPG",
+    "static/media/Page13.JPG": "/secret-monster-santa/static/media/Page13.f8434c32ae93988c5f40.JPG",
+    "static/media/Page11.JPG": "/secret-monster-santa/static/media/Page11.be78f935705bdea0a551.JPG",
+    "static/media/Page10.JPG": "/secret-monster-santa/static/media/Page10.fea2eb76ad41ca5e908e.JPG",
+    "static/media/Page5.JPG": "/secret-monster-santa/static/media/Page5.6695af9acc8ddff9e9f7.JPG",
+    "static/media/Page12.JPG": "/secret-monster-santa/static/media/Page12.6323445f03f37117c892.JPG",
+    "static/media/Page4.JPG": "/secret-monster-santa/static/media/Page4.c3262b74fe86742df0c4.JPG",
+    "static/media/Page3.JPG": "/secret-monster-santa/static/media/Page3.05a5d17d6b84c7e30552.JPG",
+    "static/media/Page2.JPG": "/secret-monster-santa/static/media/Page2.f7b3c8647c2069da6aa1.JPG",
+    "static/media/Page9.JPG": "/secret-monster-santa/static/media/Page9.c86f3bd7a024905413df.JPG",
+    "static/media/Page7.JPG": "/secret-monster-santa/static/media/Page7.695dd5a6065728d42dc2.JPG",
+    "static/media/Page1.JPG": "/secret-monster-santa/static/media/Page1.b0cf1cb86eab419a5149.JPG",
+    "static/media/Page6.JPG": "/secret-monster-santa/static/media/Page6.c0a7de606d5cfa1021b7.JPG",
+    "index.html": "/secret-monster-santa/index.html",
+    "main.7ff6afcd.css.map": "/secret-monster-santa/static/css/main.7ff6afcd.css.map",
+    "main.2219a3f3.js.map": "/secret-monster-santa/static/js/main.2219a3f3.js.map",
+    "787.32f32c27.chunk.js.map": "/secret-monster-santa/static/js/787.32f32c27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff6afcd.css",
+    "static/js/main.2219a3f3.js"
+  ]
+}
