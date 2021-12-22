@@ -6,7 +6,7 @@ function Header () {
         <ul>
         <div className="Header">
             <li>
-                <Link to="/MonsterHistory">MONSTER & HISTORY</Link>
+                <Link to="/MonsterHistory">MONSTERS & HISTORY</Link>
             </li>  
             <li>
                 <Link to="/">THE STORY</Link>

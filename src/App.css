@@ -100,3 +100,30 @@ h1 {
   width: 10%;
   overflow: visible;
 } */
+
+
+
+
+@media only screen and (max-width: 480px) {
+  .Banner {
+  height: 60px;
+  }
+  .Header, #li {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  height: 25px;
+  font-size: 18px;
+}
+  .Pages {
+  display: flex;
+  justify-content: center;
+  height: 250px;
+}
+  .video {
+  display: flex;
+  justify-content: center;
+  height: 20px;
+}
+
+}
