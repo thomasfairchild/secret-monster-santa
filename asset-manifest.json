@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/secret-monster-santa/static/css/main.772bb323.css",
-    "main.js": "/secret-monster-santa/static/js/main.18ac3405.js",
+    "main.css": "/secret-monster-santa/static/css/main.678ddba0.css",
+    "main.js": "/secret-monster-santa/static/js/main.07c6423b.js",
     "static/js/787.32f32c27.chunk.js": "/secret-monster-santa/static/js/787.32f32c27.chunk.js",
     "static/media/Background.jpeg": "/secret-monster-santa/static/media/Background.cdd3929931088c2bbdd5.jpeg",
     "static/media/PapaGoji.png": "/secret-monster-santa/static/media/PapaGoji.8d3c8f78bf9d9ef5e06d.png",
@@ -27,12 +27,12 @@
     "static/media/Page1.JPG": "/secret-monster-santa/static/media/Page1.b0cf1cb86eab419a5149.JPG",
     "static/media/Page6.JPG": "/secret-monster-santa/static/media/Page6.c0a7de606d5cfa1021b7.JPG",
     "index.html": "/secret-monster-santa/index.html",
-    "main.772bb323.css.map": "/secret-monster-santa/static/css/main.772bb323.css.map",
-    "main.18ac3405.js.map": "/secret-monster-santa/static/js/main.18ac3405.js.map",
+    "main.678ddba0.css.map": "/secret-monster-santa/static/css/main.678ddba0.css.map",
+    "main.07c6423b.js.map": "/secret-monster-santa/static/js/main.07c6423b.js.map",
     "787.32f32c27.chunk.js.map": "/secret-monster-santa/static/js/787.32f32c27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.772bb323.css",
-    "static/js/main.18ac3405.js"
+    "static/css/main.678ddba0.css",
+    "static/js/main.07c6423b.js"
   ]
 }
