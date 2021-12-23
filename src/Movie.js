@@ -14,7 +14,7 @@ function Movie() {
     through the stop motion method. Adobe After Effects was implemented to bring the story and characters to life.
     </h2>
     <br></br>
-    <h1>This holiday season, get ready to be stomped beneath the mistletoe.</h1>
+    <h1>This holiday season, get ready to be STOMPED beneath the mistletoe.</h1>
     <br></br>
     <div className="themovie">
     <YouTubeEmbed embedId="bQqelCQ_ONU" />

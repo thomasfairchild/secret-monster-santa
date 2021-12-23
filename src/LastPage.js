@@ -9,7 +9,7 @@ function LastPage() {
     <div className="Pages">
     <img src={Page17} alt="first page"/>
     </div>
-    <h1>...were friends to play with on this Winter Solstice day!</h1>
+    <h1>...were friends to play with on this Winter Solstice Day!</h1>
     <ul>
         <br>
         </br>

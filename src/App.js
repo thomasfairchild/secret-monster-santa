@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom";
+import { useEffect } from "react";
 import Story from "./Story";
 import About from "./About";
 import MonsterHistory from "./MonsterHistory";
@@ -24,7 +25,14 @@ import Header from "./Header";
 import './App.css';
 import MainBanner from './images/MainBanner.png';
 
+
 function App() {
+
+  useEffect(() => {
+    document.title = "Secret Monster Santa"
+  }, [])
+
+
   return (
     
     <div className="App">
