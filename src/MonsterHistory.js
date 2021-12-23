@@ -17,7 +17,8 @@ function MonsterHistory() {
             cruel person, or an out-of-control child (as a father of a toddler I can attest to this).
             But did you know monster was originally called monstrum, which in Latin means
             a sign or warning? In most story depictions, monsters are a clear and present danger, 
-            but why is that? And what important lessons can we learn so that we too don't become monsters?</span></h2>
+            but why is that? And what important lessons can we learn so that we too don't become monsters and history
+            doesn't repeat itself?</span></h2>
         <br>
         </br>
         <div className="Pages">

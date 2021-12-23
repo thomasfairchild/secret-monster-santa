@@ -1,70 +1,127 @@
-# Getting Started with Create React App
+# The Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Project:
+[https://thomasfairchild.github.io/secret-monster-santa/]
 
-## Available Scripts
+# Project Overview
 
-In the project directory, you can run:
+I'll be chronicling the progress of this project in this section.
 
-### `npm start`
+12/16/2021: 
+- Mapped out the Wireframe, React Architecture, and Project Versions.
+- Submitted project for approval.
+- Project was approved!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+12/17/2021:
+- Created components for Story, MonsterHistory, About.
+- Made Links and Routes in the App to the aforementioned components.
+- Grouped Story, MonsterHistory, and About into the Header.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+12/20/2021:
+- Over the weekend, I went through the artwork I'll be using, and prepared one gif per page; however, due to how large each gif file is and the limited bandwidth I have at GitHub, I had no choice but to change plans.
+- Instead of using gifs, I'll be relying on simple images screen-grabbed from one of my personal projects.
+- Main banner was successfully tested. It's the only gif.
+- CSS, Header, abd Story were modified.
+- Pages 1-8 were successfully made.
 
-### `npm test`
+12/21/2021:
+- Finished all the Story Pages.
+- Extensive CSS work was done.
+- Added a new Movie component to highlight the video that inspired this project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+12/22/2021:
+- Overall look has been achieved through CSS retooling.
+- Media settings have been set (albeit will likely need tuning).
+- NPM deployment was successful!
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project Description
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For my final project at General Assembly (2021), I'll be doing a giant monster/Christmas themed virtual storybook geared towards younger readers. My hope is that readers will walk away with the perspective that just because something may look scary doesn't mean it's bad. In future Versions, I'll also be providing an About page.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+V1 virtual storybook will have a basic setup. The user will have the option to go to the next pg or back one. Each storybook page will have its own component. Future versions might have a flip-page effect (I need to research how to do this).
 
-### `npm run eject`
+This project will be front-end and it will be React-powered; however, if time allows, I also want to do an API Monsters & History component, which delves into the historicity of monsters and its impact on society and culture. I'll either find an API that does this or make my own (thinking of using Python/Django).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Wireframes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Wireframe:
+[https://i.imgur.com/8EJ8Gt4.png]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React Architecture:
+[https://i.imgur.com/7JLBPks.png]
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Project Versions:
+[https://i.imgur.com/VlfFvoL.png]
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### MVP/PostMVP
 
-### Analyzing the Bundle Size
+The functionality will then be divided into two separate lists: MPV and PostMVP.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### MVP Components
 
-### Making a Progressive Web App
+| Component | Description | 
+| --- | :---: |  
+- App | This will make the initial data pull and include React Router| 
+- Header | This will render the header include the nav | 
+- CSS | Stylize | 
+- Virtual Storybook | The heart of this project. | 
+- After Effects/Photoshop | I'll make an original banner along with a series of animated storybook pages.
+- About | I'll be providing my bio, picture, and motivation for making this project. | 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### PostMVP Components/Other
 
-### Advanced Configuration
+| Component | Description | 
+| --- | :---: |  
+- Monsters & History | A historical deep-dive into the legends/myths shrouding monsters, and the effect its had on modern-day society and culture. |
+- Monster/History Data | Third-party API OR a back-end I'll build using Python/Django | 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Time Tracker
 
-### Deployment
+| Component | Priority | Estimated Time | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+- | App | H | 3hrs | 3hrs |
+- | Header | H | 1hr | 1hr |
+- | CSS | H | 3hrs | 4hrs |
+- | Virtual Storybook + Story Pages | H | 8hrs | 5hrs |
+- | About | H | 1hr | 2hrs | 
+- | Monsters & History | H | 6hrs | 2hrs |
+- | After Effects/Photoshop | H | 6hrs | 6hrs |
+- | Total | H | 26 hrs| 23 hrs |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Additional Libraries
 
-### `npm run build` fails to minify
+I'll use Adobe After Effects/Photoshop to create original banner(s) and design the virtual storybook.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ ## Media Settings
+
+ Mobile: @media only screen and (max-width: 480px)
+
+ Tablet: @media only screen and (max-width: 710px)
+
+ Desktop: @media only screen and (max-width: 1080px)
+
+
+## Resources
+
+Great tutorial on embedding YouTube videos into React JS:
+[https://dev.to/bravemaster619/simplest-way-to-embed-a-youtube-video-in-your-react-app-3bk2]
+
+CSS Gradient Tool:
+[https://cssgradient.io/]
+
+
+
+## Future Objectives
+
+- Work on the Flipage method.
+
+- Find or build Monster API Back-End to revamp the Monster History section.
+
+
+```
